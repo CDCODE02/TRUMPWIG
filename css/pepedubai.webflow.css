@@ -99,7 +99,7 @@ p {
 }
 
 .navigation-secondary:hover {
-  color: #3c8430;
+  color: #008afc;
   background-color: #fff;
   border-color: #fff;
 }
@@ -1394,7 +1394,7 @@ p {
   }
 
   .navigation-secondary:hover {
-    border-color: #3c8430;
+    border-color: #008afc;
   }
 
   .logo-link {
@@ -1457,13 +1457,13 @@ p {
   }
 
   .navigation-link:hover {
-    color: #3c8430;
+    color: #ff4040;
     border-style: none;
     border-width: 0;
   }
 
   .menu-icon {
-    color: #3c8430;
+    color: #ff4040;
   }
 
   .menu-icon:hover {
@@ -1585,7 +1585,7 @@ p {
   }
 
   .token-info {
-    border-bottom: 0.1875rem solid #3c8430;
+    border-bottom: 0.1875rem solid #ff4040;
   }
 
   .token-info.last.remove {
@@ -1661,7 +1661,7 @@ p {
   .navmenubar {
     width: 1.5625rem;
     height: 0.1875rem;
-    background-color: #3c8430;
+    background-color: #ff4040;
     margin-bottom: 0.25rem;
     padding-bottom: 0;
     padding-right: 0;
